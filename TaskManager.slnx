@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="TaskManager/TaskManager.vcxproj" />
+  <Project Path="TaskManager/TaskManager.vcxproj" Id="ff68c34d-e6b9-4eae-908d-042a290ef257" />
 </Solution>
